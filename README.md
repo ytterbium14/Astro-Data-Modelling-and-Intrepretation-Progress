@@ -4,5 +4,5 @@ The google doc containing the personal progress is : https://docs.google.com/doc
 
 WEEK 1
 
-The answer for the rolling 2 die problem is in rolling2die.ipynb and for the strings lie in string_sort.ipynb. Here I have given a sample stringlist.csv file where sample input can be stored.
+The answer for the rolling 2 die problem is in rolling2die.ipynb and for the strings lie in string_sort.ipynb. Here I have given a sample stringlist.csv file where sample input can be stored.The answer is in the pdf named answer.
 
