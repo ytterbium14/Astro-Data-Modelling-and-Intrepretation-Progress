@@ -1,6 +1,10 @@
 # Astronomical Data Modelling and Interpretation
-This Repository includes assignments given during the project Astronomical Data Modelling and Interpetation.
+
 This is  [the progress report document]( https://docs.google.com/document/d/1X4FmYtGBDoHb6AEyv5qfevJUAJMuo6LhYjhUVn4sn3Q/edit?usp=sharing)  
+Here you can find the [presentation report](https://drive.google.com/file/d/1IKn9d3TBVCsCXh8hFsxEcLZE_s-5Kg9s/view?usp=sharing), and the [video](https://drive.google.com/file/d/1P-vb1cMRgaapdKZxlxgnRDQEzSSxS_Zl/view?usp=sharing) 
+This Repository includes assignments given during the project Astronomical Data Modelling and Interpetation.
+
+
 
 ## WEEK 1
 
